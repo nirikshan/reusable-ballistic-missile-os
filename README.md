@@ -1,3 +1,3 @@
-# reusable-nuclear-ballistic-missile-os
+# reusable-ballistic-missile-os
 
 This is nothing fancy , It's simply the good name for my test os.
